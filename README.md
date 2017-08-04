@@ -1,6 +1,6 @@
-# koja
+# just
 
-Koja is a JavaScript interpreter/compiler to Kotlin.
+Just is a JavaScript interpreter/compiler to Rust.
 
 ## Supported Grammars
 
