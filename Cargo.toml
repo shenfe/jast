@@ -1,0 +1,6 @@
+[package]
+name = "jaru"
+version = "0.1.0"
+authors = ["hengwu <youchuangqiba@163.com>"]
+
+[dependencies]
