@@ -2,6 +2,10 @@
 name = "jaru"
 version = "0.1.0"
 authors = ["hengwu <youchuangqiba@163.com>"]
+build = "build.rs"
+
+[build-dependencies]
+peg = { version = "0.5" }
 
 [dependencies]
 peg = "0.5.4"
