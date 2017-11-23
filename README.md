@@ -1,6 +1,6 @@
 # jaru
  
-**0.1% development now**
+**0.1% development， not available**
 
 Jaru is a JavaScript interpreter/compiler to Rust.
 
