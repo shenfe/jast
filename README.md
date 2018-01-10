@@ -1,8 +1,8 @@
-# jaru
+# jast
  
 **>> 0.1% development, not available <<**
 
-Jaru is a JavaScript interpreter/compiler to Rust.
+Jast is a JavaScript interpreter/compiler to Rust.
 
 ## Supported Grammars
 
