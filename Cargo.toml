@@ -1,11 +1,13 @@
 [package]
-name = "jaru"
+name = "jast"
 version = "0.1.0"
 authors = ["hengwu <youchuangqiba@163.com>"]
 build = "build.rs"
 
 [build-dependencies]
-peg = { version = "0.5" }
+pest = "^1.0"
+pest_derive = "^1.0"
 
 [dependencies]
-peg = "0.5.4"
+pest = "1.0.3"
+pest_derive = "1.0.3"
