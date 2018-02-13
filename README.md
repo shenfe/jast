@@ -12,7 +12,7 @@ Jast is a JavaScript interpreter/compiler to Rust.
 
 ### rust
 
-To develop, you have to install **rust**. To install rust (and cargo, the rust package manager), refer to the [official](https://doc.rust-lang.org/book/second-edition/ch01-01-installation.html), or just:
+To develop, you have to install **rust**. To install rust (and [cargo](https://doc.rust-lang.org/cargo/index.html), the rust package manager), refer to the [official](https://doc.rust-lang.org/book/second-edition/ch01-01-installation.html), or just:
 
 ```bash
 $ curl https://sh.rustup.rs -sSf | sh
